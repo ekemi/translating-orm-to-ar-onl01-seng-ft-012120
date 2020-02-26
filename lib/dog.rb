@@ -1,2 +1,2 @@
-class < ActiveRecord::Base
+class Dog < ActiveRecord::Base
 end
